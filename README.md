@@ -30,8 +30,8 @@
 .
 ├── lenguajes.py               
 └── scripts
-    ├── union_ejercicios.py     
-    ├── interseccion_ejercicios.py 
+    ├── union_ejercicios.py    
+    ├── interseccion_ejercicios.py  
     └── concatenacion_ejercicios.py 
 ```
 
