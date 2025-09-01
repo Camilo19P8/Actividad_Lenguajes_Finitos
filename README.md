@@ -28,11 +28,11 @@
 
 ```
 .
-├── lenguajes.py                # Funciones base y lenguajes L1..L5
+├── lenguajes.py               
 └── scripts
-    ├── union_ejercicios.py     # Rama 1: ejercicios resueltos de unión
-    ├── interseccion_ejercicios.py  # Rama 2: plantilla
-    └── concatenacion_ejercicios.py # Rama 3: plantilla
+    ├── union_ejercicios.py     
+    ├── interseccion_ejercicios.py  
+    └── concatenacion_ejercicios.py 
 ```
 
 ## Instrucciones de uso
